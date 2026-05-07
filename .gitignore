@@ -1,0 +1,21 @@
+api_env/
+tf_env/
+veda-frontend/node_modules/
+__pycache__/
+*.pyc
+.env
+token.pkl
+*.log
+
+# Google Cloud credentials - NEVER COMMIT THESE
+credentials.json
+service_account.json
+*.json.key
+*-key.json
+
+# Secrets and API keys
+.env.local
+.env.production
+secrets/
+*.pem
+*.key

@@ -1,0 +1,37 @@
+GST COMPLIANCE FOR TECHNOLOGY COMPANIES - INDIA M&A DUE DILIGENCE
+
+KEY AREAS TO VERIFY:
+
+1. REGISTRATION STATUS
+- Mandatory GST registration if annual turnover exceeds INR 20 lakhs
+- For digital services: registration required regardless of turnover
+- Penalty for non-registration: 10% of tax due, minimum INR 10,000
+
+2. FILING COMPLIANCE
+- GSTR-1: Monthly/quarterly return for outward supplies
+- GSTR-3B: Monthly summary return
+- GSTR-9: Annual return
+- Non-filing penalty: INR 50 per day (INR 20 per day for nil returns)
+
+3. INPUT TAX CREDIT
+- ITC can be claimed on software, cloud services, office equipment
+- Blocked credits: personal expenses, motor vehicles
+- Reversal required if payment not made within 180 days
+
+4. M&A DUE DILIGENCE CHECKLIST
+- GST registration certificate valid? YES/NO
+- All returns filed for last 3 years? YES/NO
+- Any pending GST notices or demands? YES/NO
+- ITC reconciliation done? YES/NO
+- E-invoicing implemented (if applicable)? YES/NO
+
+5. COMMON ISSUES IN TECH STARTUPS
+- Incorrect classification of software services
+- Missing GST on imports of services (reverse charge)
+- ITC claimed on personal expenses
+- Late filing leading to interest @ 18% per annum
+
+6. PENALTY EXPOSURE IN M&A
+- Undisclosed GST liability transfers to acquiring company
+- Average undisclosed liability in tech acquisitions: INR 20-200 lakhs
+- Always obtain GST clearance certificate before deal closure

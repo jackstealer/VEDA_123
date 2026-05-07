@@ -1,0 +1,39 @@
+DIGITAL PERSONAL DATA PROTECTION ACT 2023 (PDPB 2023) - INDIA
+
+KEY PROVISIONS FOR M&A DUE DILIGENCE:
+
+1. DATA FIDUCIARY OBLIGATIONS
+- Every company processing personal data of Indian citizens must register as a Data Fiduciary
+- Mandatory appointment of Data Protection Officer (DPO) for significant data fiduciaries
+- Penalty for non-compliance: Up to INR 250 crore per violation
+- Companies must maintain records of all data processing activities
+
+2. CONSENT REQUIREMENTS
+- Explicit, informed consent required before processing personal data
+- Consent must be freely given, specific, and withdrawable
+- No bundled consent allowed
+- Children's data requires parental consent (under 18 years)
+
+3. DATA LOCALISATION
+- Certain categories of sensitive personal data must be stored in India
+- Cross-border transfer allowed only to notified countries
+- Financial data, health data, biometric data classified as sensitive
+
+4. BREACH NOTIFICATION
+- Data breach must be reported to Data Protection Board within 72 hours
+- Affected users must be notified immediately
+- Penalty for concealing breach: Up to INR 200 crore
+
+5. M&A IMPLICATIONS
+- Acquiring company inherits all data protection liabilities
+- Due diligence must verify: consent records, DPO appointment, breach history
+- Data processing agreements must be reviewed
+- Cross-border data transfer arrangements must be assessed
+- Non-compliant companies face penalties up to INR 500 crore
+
+6. COMPLIANCE CHECKLIST FOR ACQUISITION
+- Is the target registered as Data Fiduciary? YES/NO
+- Has DPO been appointed? YES/NO
+- Are consent records maintained? YES/NO
+- Any past data breaches reported? YES/NO
+- Data localisation requirements met? YES/NO

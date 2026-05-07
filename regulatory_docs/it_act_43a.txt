@@ -1,0 +1,34 @@
+IT ACT SECTION 43A - COMPENSATION FOR FAILURE TO PROTECT DATA - INDIA
+
+KEY PROVISIONS:
+
+1. LIABILITY
+- Body corporates handling sensitive personal data are liable for negligence
+- Compensation payable to affected persons for wrongful loss or gain
+- No cap on compensation amount — determined by adjudicating officer
+
+2. SENSITIVE PERSONAL DATA DEFINITION
+- Passwords
+- Financial information (bank account, credit card details)
+- Physical, physiological, mental health condition
+- Sexual orientation
+- Medical records and history
+- Biometric information
+
+3. SECURITY PRACTICES REQUIRED
+- Companies must implement reasonable security practices
+- IS/ISO/IEC 27001 certification recommended
+- Must have comprehensive documented information security programme
+- Regular security audits mandatory
+
+4. M&A DUE DILIGENCE CHECKLIST
+- Does target have ISO 27001 certification?
+- Are security audit reports available for last 3 years?
+- Any pending compensation claims under Section 43A?
+- Encryption standards used for sensitive data?
+- Employee data access controls in place?
+
+5. PENALTIES
+- Failure to maintain security practices: Unlimited compensation liability
+- Average settlement in India: INR 5-50 lakhs per incident
+- Class action possible for large-scale breaches

@@ -1,0 +1,34 @@
+SEBI GUIDELINES FOR TECHNOLOGY COMPANIES AND FINTECH - INDIA
+
+KEY PROVISIONS FOR M&A DUE DILIGENCE:
+
+1. ALGORITHMIC TRADING
+- All algo trading systems must be approved by SEBI
+- Mandatory audit trail for all automated trades
+- Risk management framework required
+- Penalty for unauthorised algo trading: INR 25 crore
+
+2. INVESTMENT ADVISOR REGISTRATION
+- Companies providing investment advice must register with SEBI
+- Qualification requirements for investment advisors
+- Compliance officer mandatory
+- Net worth requirement: INR 50 lakhs (individuals), INR 150 lakhs (corporates)
+
+3. DATA LOCALISATION FOR MARKET DATA
+- All market data of Indian investors must be stored in India
+- Real-time data sharing with foreign entities requires SEBI approval
+
+4. ANTI-MONEY LAUNDERING
+- KYC mandatory for all investment products
+- Suspicious transaction reporting to FIU-IND
+- Record keeping for 5 years minimum
+
+5. M&A CHECKLIST
+- Is target registered as Investment Advisor with SEBI? YES/NO
+- Any SEBI enforcement actions pending? YES/NO
+- AML/KYC processes in place? YES/NO
+- Algo systems approved by exchange? YES/NO
+
+6. PENALTIES
+- Operating without registration: INR 1 crore per day
+- AML violations: INR 25 crore or 3x the profit

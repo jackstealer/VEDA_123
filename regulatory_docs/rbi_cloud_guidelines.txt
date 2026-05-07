@@ -1,0 +1,35 @@
+RBI CLOUD COMPUTING GUIDELINES FOR REGULATED ENTITIES - INDIA
+
+KEY PROVISIONS FOR FINTECH M&A DUE DILIGENCE:
+
+1. APPLICABILITY
+- Applies to all RBI-regulated entities (banks, NBFCs, payment companies)
+- Covers public cloud, private cloud, hybrid cloud deployments
+- Effective from April 2023
+
+2. DATA RESIDENCY
+- All financial data of Indian customers must reside in India
+- No exceptions for cloud providers
+- Penalty: Suspension of operations for non-compliance
+
+3. VENDOR RISK MANAGEMENT
+- Cloud service provider must be registered with RBI (for critical workloads)
+- Exit strategy mandatory — data must be retrievable within 6 hours
+- Annual audit of cloud provider required
+- Multi-cloud strategy encouraged to avoid vendor lock-in
+
+4. AUDIT AND OVERSIGHT
+- RBI has right to audit cloud infrastructure
+- Regulated entity remains fully responsible even if data is with cloud provider
+- Business continuity plan mandatory
+
+5. M&A IMPLICATIONS
+- Acquiring a fintech — verify RBI cloud compliance immediately
+- Non-compliant fintech faces operating licence suspension
+- Cloud contracts must be reviewed for exit clauses
+- Data sovereignty must be verified
+
+6. COMPLIANCE SCORE IMPACT
+- RBI cloud compliant: +20 compliance points
+- Non-compliant: -40 compliance points (deal blocker)
+- Partial compliance: -15 compliance points
