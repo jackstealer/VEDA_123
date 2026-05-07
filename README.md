@@ -109,28 +109,28 @@ pip install -r requirements.txt
 3. **Set up environment variables**
 
 ```bash
-# Create .env file
-cat > .env << EOF
-GCP_PROJECT_ID=your-project-id
-GCP_LOCATION=us-central1
-BQ_DATASET=veda_ma_diligence
+# Copy the example file and fill in your values
+cp .env.example .env
 
-GITHUB_TOKEN=your-github-token
-GOOGLE_CLIENT_ID=your-oauth-client-id
-GOOGLE_CLIENT_SECRET=your-oauth-client-secret
-SESSION_SECRET=your-session-secret
-
-OAUTH_REDIRECT_URI=http://localhost:8080/auth/callback
-MCP_SERVER_URL=http://localhost:8001
-EOF
+# Edit .env with your actual credentials
+# nano .env  # or use your preferred editor
 ```
 
 4. **Set up Google Cloud credentials**
 
 ```bash
-# Place your service account JSON in the project root
+# Copy example files and add your actual credentials
+cp credentials.json.example credentials.json
+cp service_account.json.example service_account.json
+
+# Edit these files with your actual Google Cloud credentials
+# Get credentials from: https://console.cloud.google.com/apis/credentials
+
+# Set environment variable
 export GOOGLE_APPLICATION_CREDENTIALS=service_account.json
 ```
+
+**⚠️ Security Note**: Never commit `credentials.json`, `service_account.json`, or `.env` files to version control. These files are already in `.gitignore`.
 
 5. **Initialize BigQuery schema**
 
